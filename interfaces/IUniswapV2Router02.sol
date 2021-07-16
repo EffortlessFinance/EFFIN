@@ -7,7 +7,7 @@ import "./IUniswapV2Router01.sol";
 /**
  *
  * IUniswapV2Router02
- * Copyright © 2021 Uniswap (https://uniswap.org/)
+ * Copyright Â© 2021 Uniswap (https://uniswap.org/)
  * Project Code: https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/IUniswapV2Router02.sol
  * License (GNU General Public License v3.0): https://github.com/Uniswap/uniswap-v2-periphery/blob/master/LICENSE
  *
