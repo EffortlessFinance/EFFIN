@@ -5,7 +5,7 @@ pragma solidity >=0.6.2;
 /**
  *
  * IUniswapV2Router01
- * Copyright © 2021 Uniswap (https://uniswap.org/)
+ * Copyright Â© 2021 Uniswap (https://uniswap.org/)
  * Project Code: https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/IUniswapV2Router01.sol
  * License (GNU General Public License v3.0): https://github.com/Uniswap/uniswap-v2-periphery/blob/master/LICENSE
  *
