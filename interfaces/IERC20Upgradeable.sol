@@ -5,7 +5,7 @@ pragma solidity ^0.8.0;
 /**
  *
  * IERC20Upgradeable
- * Copyright © 2016-2020 zOS Global Limited/2017-2021 OpenZeppelin (https://openzeppelin.com/)
+ * Copyright Â© 2016-2020 zOS Global Limited/2017-2021 OpenZeppelin (https://openzeppelin.com/)
  * Project Code: https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable/blob/master/contracts/token/ERC20/IERC20Upgradeable.sol
  * License (MIT): https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable/blob/master/LICENSE
  *
