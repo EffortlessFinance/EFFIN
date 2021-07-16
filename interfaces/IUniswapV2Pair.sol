@@ -5,7 +5,7 @@ pragma solidity >=0.5.0;
 /**
  *
  * IUniswapV2Pair
- * Copyright © 2021 Uniswap (https://uniswap.org/)
+ * Copyright Â© 2021 Uniswap (https://uniswap.org/)
  * Project Code: https://github.com/Uniswap/uniswap-v2-core/blob/master/contracts/interfaces/IUniswapV2Pair.sol
  * License (GNU General Public License v3.0): https://github.com/Uniswap/uniswap-v2-core/blob/master/LICENSE
  *
