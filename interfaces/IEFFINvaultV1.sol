@@ -5,7 +5,7 @@ pragma solidity ^0.8.2;
 /**
  *
  * EFFINvault Interface
- * Copyright © 2021 Effortless Finance "EFFIN" (https://www.effin.dev/)
+ * Copyright Â© 2021 Effortless Finance "EFFIN" (https://www.effin.dev/)
  * License (BSD-3-Clause): https://github.com/EffortlessFinance/Licenses/blob/main/LICENSE
  *
  */
